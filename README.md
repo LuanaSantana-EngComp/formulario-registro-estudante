@@ -37,7 +37,7 @@ Antes de rodar o teste, certifique-se de ter:
 
 - Node.js instalado
 - Cypress instalado no projeto
-- A imagem `foto-de-por-do-sol.jpeg` adicionada à pasta `cypress/fixtures`
+- A imagem `FOTO.jpg` adicionada à pasta `cypress/fixtures`
 
 ## 🔧 Como Executar
 
